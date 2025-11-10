@@ -1,6 +1,24 @@
-# 🟢 Java Foundation Complete
+# 🟢 Java Foundation
 
 > **Beginner-Level Java Programming** - Master the fundamentals of Java
+
+[![Java](https://img.shields.io/badge/Java-8%2B-orange.svg)](https://www.java.com/)
+[![Level](https://img.shields.io/badge/Level-Beginner-green.svg)]()
+
+---
+
+## 🔗 Part of Java Learning Path
+
+**This is Repository 1 of 4** - A complete progressive Java learning curriculum.
+
+| # | Repository | Level | Focus | Your Progress |
+|---|------------|-------|-------|---------------|
+| **1** | **[Java-Foundation](https://github.com/lakipop/Java-Foundation)** ⭐ | 🟢 Beginner | Basics, OOP, Exceptions | **← YOU ARE HERE** |
+| 2 | **[Java-Intermediate](https://github.com/lakipop/Java-Intermediate)** | 🟡 Intermediate | GUI, JDBC, Collections | Next Step → |
+| 3 | **[Java-Advanced](https://github.com/lakipop/Java-Advanced)** | 🔴 Advanced | Multithreading, Spring Boot | Future |
+| 4 | **[Java-Design-Patterns](https://github.com/lakipop/Java-Design-Patterns)** | 🟣 Expert | 23 GoF Patterns | Future |
+
+**💡 Tip:** Each repository is standalone, but following the sequence gives the best learning experience!
 
 ---
 
@@ -107,7 +125,7 @@ java HelloWorld
 ### Using an IDE
 
 1. **IntelliJ IDEA:**
-   - File → Open → Select `Java-Foundation-Complete` folder
+   - File → Open → Select `Java-Foundation` folder
    - Right-click on any .java file → Run
 
 2. **Eclipse:**
@@ -115,7 +133,7 @@ java HelloWorld
    - Right-click on file → Run As → Java Application
 
 3. **VS Code:**
-   - File → Open Folder → Select `Java-Foundation-Complete`
+   - File → Open Folder → Select `Java-Foundation`
    - Install Java Extension Pack
    - Click Run button above main method
 
@@ -135,7 +153,7 @@ java HelloWorld
 
 ```bash
 # 1. Navigate to basics folder
-cd Java-Foundation-Complete/src/01-basics
+cd Java-Foundation/src/01-basics
 
 # 2. Create HelloWorld.java
 # (or use existing file)
@@ -266,5 +284,21 @@ Educational use only. BICT Java Foundation Course.
 ---
 
 **Happy Coding! 🚀**
+
+---
+
+## 🔗 Explore Other Repositories
+
+**Completed Foundation?** Continue your learning journey:
+
+➡️ **Next:** [Java-Intermediate](https://github.com/lakipop/Java-Intermediate) - GUI, JDBC, Collections
+
+**Full Learning Path:**
+1. 🟢 [Java-Foundation](https://github.com/lakipop/Java-Foundation) ← You are here
+2. 🟡 [Java-Intermediate](https://github.com/lakipop/Java-Intermediate)
+3. 🔴 [Java-Advanced](https://github.com/lakipop/Java-Advanced)
+4. 🟣 [Java-Design-Patterns](https://github.com/lakipop/Java-Design-Patterns)
+
+---
 
 *Part of the BICT Complete Java Course Collection*
